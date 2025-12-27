@@ -184,3 +184,4 @@ YTDAudio v1.0.0 is the first stable release of this cross-platform audio downloa
 [1.0.0]: https://github.com/sttm/YTDAudio/releases/tag/v1.0.0
 [Unreleased]: https://github.com/sttm/YTDAudio/compare/v1.0.0...HEAD
 
+
