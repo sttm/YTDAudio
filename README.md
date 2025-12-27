@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-Made with ❤️ by [sttm](https://github.com/sttm)
+Made with ❤️ by [Statum](https://github.com/sttm)
 
 **[⬆ back to top](#ytdaudio---audio-downloader)**
 
