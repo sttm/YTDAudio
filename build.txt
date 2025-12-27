@@ -1,0 +1,6 @@
+cmake .. -DCMAKE_OSX_ARCHITECTURES="x86_64;arm64" -DCMAKE_OSX_DEPLOYMENT_TARGET=12.0 -DPREFER_BUNDLED_SDL2=ON -DSDL2_LIBRARY=/Users/admin/Documents/Projects/ytdaudio/third_party/libSDL2.dylib
+
+
+cmake --build . --config Release
+
+codesign --force --deep --sign - ytdaudio.app
