@@ -96,10 +96,6 @@ Click the **⚙️ Settings** button to configure:
 - **Enable Proxy** - Use HTTP/SOCKS5 proxy
 - **Proxy URL** - Format: `socks5://127.0.0.1:1080` or `http://proxy.example.com:8080`
 
-#### 🔑 **API Keys** (Optional)
-- Spotify API Key - For enhanced metadata
-- YouTube API Key - For quota management
-- SoundCloud API Key - For private tracks
 
 #### ⚙️ **Advanced yt-dlp Settings**
 - **Rate Limiting** - Sleep intervals between downloads
