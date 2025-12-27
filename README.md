@@ -127,47 +127,7 @@ Instagram Post:   https://www.instagram.com/p/...
 
 ## 🔧 Building from Source
 
-### Prerequisites
 
-**macOS:**
-```bash
-brew install sdl2 cmake
-```
-
-**Linux:**
-```bash
-sudo apt-get install libsdl2-dev cmake build-essential
-```
-
-**Windows:**
-- Visual Studio 2019 or newer
-- CMake 3.16+
-- SDL2 (included in third_party/)
-
-### Build Instructions
-
-```bash
-# Clone the repository
-git clone https://github.com/sttm/YTDAudio.git
-cd YTDAudio
-
-# Create build directory
-mkdir build && cd build
-
-# Configure and build
-cmake ..
-make  # or cmake --build . --config Release on Windows
-
-# Run
-./ytdaudio.app/Contents/MacOS/ytdaudio  # macOS
-./ytdaudio.exe  # Windows
-```
-
-## 🎨 Screenshots
-
-<div align="center">
-<i>Screenshots coming soon...</i>
-</div>
 
 ## 🔒 Privacy & Security
 
@@ -192,16 +152,6 @@ This software is provided for personal, educational, and research purposes only.
 - Spotify requires cookies/API keys for full functionality
 - Some geo-restricted content may require proxy configuration
 - First download after launch may take longer (service checks)
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve YTDAudio:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
